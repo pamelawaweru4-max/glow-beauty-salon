@@ -11,5 +11,3 @@ A responsive beauty salon website built with HTML and CSS.
 - HTML5
 - CSS3
 - Responsive design
-- Netlify deployment
--
